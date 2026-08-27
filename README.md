@@ -7,4 +7,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sachin-Garg76/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Sachin-Garg76/Leetcode-Solutions/tree/master/0067-add-binary) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Sachin-Garg76/Leetcode-Solutions/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Sachin-Garg76/Leetcode-Solutions/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Sachin-Garg76/Leetcode-Solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
