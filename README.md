@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Sachin-Garg76/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0459-repeated-substring-pattern](https://github.com/Sachin-Garg76/Leetcode-Solutions/tree/master/0459-repeated-substring-pattern) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -23,4 +24,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Sachin-Garg76/Leetcode-Solutions/tree/master/0067-add-binary) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Sachin-Garg76/Leetcode-Solutions/tree/master/0459-repeated-substring-pattern) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Sachin-Garg76/Leetcode-Solutions/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Sachin-Garg76/Leetcode-Solutions/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
