@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Sachin-Garg76/Leetcode-Solutions/tree/master/0015-3sum) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sachin-Garg76/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Math
 |  |
@@ -36,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Sachin-Garg76/Leetcode-Solutions/tree/master/0459-repeated-substring-pattern) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Sachin-Garg76/Leetcode-Solutions/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Sachin-Garg76/Leetcode-Solutions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
