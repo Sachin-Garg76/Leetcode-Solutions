@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Sachin-Garg76/Leetcode-Solutions/tree/master/0015-3sum) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sachin-Garg76/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sachin-Garg76/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3904-smallest-stable-index-ii](https://github.com/Sachin-Garg76/Leetcode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Math
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Sachin-Garg76/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/Sachin-Garg76/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sachin-Garg76/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## String
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sachin-Garg76/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Sachin-Garg76/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sachin-Garg76/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -62,8 +65,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sachin-Garg76/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sachin-Garg76/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Linked List
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sachin-Garg76/Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sachin-Garg76/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sachin-Garg76/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 <!---LeetCode Topics End-->
